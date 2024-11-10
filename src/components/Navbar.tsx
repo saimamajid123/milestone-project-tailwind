@@ -19,7 +19,7 @@ const Navbar = () => {
             </ul>
 
         </div>
-      <AiOutlineMenuUnfold  className='md:hidden' size={30}/>
+      <AiOutlineMenuUnfold   size={30}/>
     </div>
   )
 }
