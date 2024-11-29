@@ -7,7 +7,7 @@ const Skills = () => {
         <div data-aso="zoom-in-up">
           <h2 className='text-4xl md:text-5xl'>Technologies I work with </h2>
           <p className='text-gray-500 pt-2'>
-            Ihave a solld foundation in web develoment, specializing in HTML, CSS, and JavaScript. My experience extends to using framework like react andNext.js to create dynamic and user-friendly applications. I'm also proficient inTailwind CSS for efficient styling and design. with a passion for iearning, I sty updated on the latest Technologies to enhance my skill set contribute effectively to projects.
+            I have a solld foundation in web develoment, specializing in HTML, CSS, and JavaScript. My experience extends to using framework like react and Next.js to create dynamic and user-friendly applications. Im also proficient inTailwind CSS for efficient styling and design. with a passion for iearning, I sty updated on the latest Technologies to enhance my skill set contribute effectively to projects.
           </p>
         </div>
         <div>
@@ -29,4 +29,4 @@ const Skills = () => {
   )
 }
 
-export default Skills
+export default Skills;

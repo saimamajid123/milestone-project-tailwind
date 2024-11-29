@@ -20,7 +20,7 @@ const Hero = () => {
             />
           </div>
           <div>
-            <p data-aos="zoom-in-up">I'm</p>
+            <p data-aos="zoom-in-up">Im</p>
             <p data-aos="zoom-in-up">Saima</p>
             <p data-aso="zoom-in-up">Majid</p>
           </div>

@@ -10,7 +10,7 @@ const Contact =() => {
             <div className='space-y-8'>
                 <h2 className='text-5xl' data-aso="zoom-in-up">get in touch</h2>
                 <p className='text-gray-600 text-[18px] pt-2' data-aso="zoom-in-up">
-                    Drop me a line, give me a call' or send me a message by submitting the form.
+                    Drop me a line, give me a call or send me a message by submitting the form.
                 </p>
                 <div className='flex gap-3 items-center' data-aso="zoom-in-up">
                     <AiOutlineMail size={30} /> saimamajid618@gmail.com 
