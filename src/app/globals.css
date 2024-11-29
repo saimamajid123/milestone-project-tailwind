@@ -10,9 +10,9 @@
 }
 
 @layer components {
-    .menulink {
-        /* @apply cursor-pointer hover:text[#c5c5c5]; */
-    }
+    /* .menulink {
+        @apply cursor-pointer hover:text[#c5c5c5];
+    } */
 
     .tags {
         background-color: #0abde3;
